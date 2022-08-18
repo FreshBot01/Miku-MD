@@ -7,13 +7,13 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
-global.ownertag = ['918101187835']
-global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
+global.Owner = ['2348053333787']
+global.OwnerNumber = ['2348053333787']
+global.ownertag = ['2348053333787']
+global.BotName = "FRESH"
+global.packname = "FRESH HECKER bot"
+global.author = "By: FRESH HECKER"
+global.OwnerName = "FRESH HECKER"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
 global.sessionName = "session"
